@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeFirst_EF.props" />
+</Project>
